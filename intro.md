@@ -1,7 +1,3 @@
-Welcome to your Jupyter Book
-============================
+# **M**athematik, **I**nformatik, **N**aturwissenschaft und **T**echnik
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-Check out the content pages bundled with this sample book to get started.
+Hier wird es um MINT-Fächer im schulischen Umfeld gehen.

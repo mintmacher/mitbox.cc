@@ -1,8 +1,32 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
-#
+
 - file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+  title: MINT
+
+- part: Mathematik
+  chapters:
+  - file: mint/mathematik/content
+
+- part: Informatik
+  chapters:
+  - file: mint/informatik/content
+
+- part: Naturwissenschaften
+  chapters:
+  - file: mint/naturwissenschaften/content
+
+- part: Technik
+  chapters:
+  - file: mint/technik/content
+
+- part: Formelsammlung
+  chapters:
+  - file: formelsammlung/mathematik/content
+    title: Mathematik
+  - file: formelsammlung/informatik/content
+    title: Informatik
+  - file: formelsammlung/naturwissenschaften/content
+    title: Naturwissenschaften
+  - file: formelsammlung/technik/content
+    title: Technik
