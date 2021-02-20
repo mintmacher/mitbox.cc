@@ -7,6 +7,7 @@
 - part: Mathematik
   chapters:
   - file: mint/mathematik/content
+  - file: mint/mathematik/links
 
 - part: Informatik
   chapters:
